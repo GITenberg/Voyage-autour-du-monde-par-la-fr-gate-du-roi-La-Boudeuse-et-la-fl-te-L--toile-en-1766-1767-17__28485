@@ -1,0 +1,34 @@
+_repo: Voyage-autour-du-monde-par-la-fr-gate-du-roi-La-Boudeuse-et-la-fl-te-L--toile-en-1766-1767-17__28485
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bougainville, Louis-Antoine de, comte
+    birthdate: 1729
+    deathdate: 1811
+    gutenberg_agent_id: '33355'
+    url: http://www.gutenberg.org/2009/agents/33355
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Louis_Antoine_de_Bougainville
+    - http://fr.wikipedia.org/wiki/Louis_Antoine_de_Bougainville
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2009-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28485'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boudeuse (Frigate)'
+- !lcc 'G'
+- !lcsh 'Voyages around the world'
+- !lcsh 'Etoile (Ship)'
+- !lcsh 'Oceania -- Discovery and exploration'
+title: Voyage autour du monde par la frégate du roi La Boudeuse et la flûte L'Étoile,
+  en 1766, 1767, 1768 & 1769.
+url: http://www.gutenberg.org/ebooks/28485
