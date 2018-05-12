@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Louis_Antoine_de_Bougainville
     - http://fr.wikipedia.org/wiki/Louis_Antoine_de_Bougainville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28485#Voyage-autour-du-monde-par-la-fr-gate-du-roi-La-Boudeuse-et-la-fl-te-L--toile-en-1766-1767-17_
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2009-04-03'
 gutenberg_type: Text
